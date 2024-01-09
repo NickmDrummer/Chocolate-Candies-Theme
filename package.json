@@ -1,0 +1,21 @@
+{
+  "name": "chocolate-candies",
+  "displayName": "Chocolate Candies",
+  "description": "Candies colours with chocolate background",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chocolate Candies",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Chocolate Candies-color-theme.json"
+      }
+    ]
+  }
+}
