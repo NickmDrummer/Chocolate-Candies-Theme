@@ -12,6 +12,20 @@ Pasos para instalar el tema:
 * Empaquetar con ```vsce package```
 * Instalar la extensión generada con ```code --install-extension chocolate-candies-0.0.1.vsix```
 
-### Fuente utilizada: Cartograph CF
+
+
+# Configuración en VS Code:
+
+> Tipografía utilizada: Cartograph CF
+
+### settings.json
+
+```
+"editor.fontFamily": "Cartograph CF",
+"editor.fontSize": 21,
+"editor.fontLigatures": true,
+"editor.fontWeight": "300",
+"editor.lineHeight": 1.5,
+```
 
 **Enjoy!**
