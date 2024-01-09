@@ -28,4 +28,4 @@ Pasos para instalar el tema:
 "editor.lineHeight": 1.5,
 ```
 
-**Enjoy!**
+**Enjoy!** :+1: 
