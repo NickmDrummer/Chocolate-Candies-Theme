@@ -7,9 +7,9 @@
 
 Pasos para instalar el tema: 
 
-
-* Instalar The Visual Studio Code Extension Manager con ```"npm i -g @vscode/vsce"``` dentro de la carpeta descargada.
-* Empaquetar con ```"vsce package"```
-* Instalar la extensión generada con ```"code --install-extension EXTENSION"```
+* Clonar el repositorio ```git clone https://github.com/NickmDrummer/Chocolate-Candies-Theme/```
+* Instalar The Visual Studio Code Extension Manager con ```npm i -g @vscode/vsce``` dentro de la carpeta del proyecto.
+* Empaquetar con ```vsce package```
+* Instalar la extensión generada con ```code --install-extension chocolate-candies-0.0.1.vsix```
 
 **Enjoy!**
